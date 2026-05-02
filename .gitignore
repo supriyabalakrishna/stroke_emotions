@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pth
+*.pyc
+*.pkl
+*.jpg
+*.png
+*.mp4
+dataset/
+fer2013/
